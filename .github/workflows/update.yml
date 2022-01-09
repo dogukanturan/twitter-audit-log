@@ -1,7 +1,7 @@
 name: Collect twitter data
 on:
   schedule:
-    - cron: "50 21 * * *"
+    - cron: "56 20 * * *"
 defaults:
   run:
     working-directory: ./tool
@@ -31,7 +31,7 @@ jobs:
     - name: Commit results
       run: |
         set -e
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.email "32000865+dogukanturan@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
 
         d="$(date --rfc-3339=s)"
