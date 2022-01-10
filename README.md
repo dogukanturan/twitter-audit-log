@@ -4,7 +4,7 @@ This repository backs up my
 [follower list](followers.txt),
 [following list](following.txt),
 [blocked accounts list](blocked_accounts.txt) and
-[muted accounts list](muted_accountos.txt) periodically using GitHub Actions.
+[muted accounts list](muted_accounts.txt) periodically using GitHub Actions.
 
 ## Set up
 
