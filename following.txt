@@ -29,6 +29,7 @@
 840616946,mertcangokgoz
 2159423352,kaganisildak
 709412306619387904,ziyaxanalbeniz
+2174736464,_denizparlak
 2739660947,Leventabiniz
 799628396,numanturle
 150957577,cnrkrglu
@@ -224,3 +225,4 @@
 185542038,lkdtr
 141614525,berkan_cesur
 1379050374154350596,zeynephtnacer
+1181516368325292032,semhyrdgul
