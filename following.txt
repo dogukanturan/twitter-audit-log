@@ -17,7 +17,7 @@
 766657609483096064,BlackboxSecTR
 2811090698,KoAkinci
 14624478,halilozturkci
-2986359375,ykslmhr
+2986359375,mahiryukseltr
 2469349034,curektor
 963369964991283200,SiberTakvim
 3806872097,t4rkd3vilz
@@ -29,6 +29,7 @@
 840616946,mertcangokgoz
 2159423352,kaganisildak
 709412306619387904,ziyaxanalbeniz
+2174736464,_denizparlak
 2739660947,Leventabiniz
 799628396,numanturle
 150957577,cnrkrglu
