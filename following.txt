@@ -37,7 +37,7 @@
 1638231860,candundaradasi
 16626956,sozluk
 634341265,osmand0gan
-346555439,RKursatV
+346555439,rkursatv
 3029244019,rdincel1
 39962517,MertSARICA
 397138216,asli_koksal
