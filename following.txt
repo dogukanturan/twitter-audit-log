@@ -77,7 +77,6 @@
 936687457336258561,DevSecOpsDays
 973656624769454081,nocontextyemek
 16056039,tunix
-253100472,cagataycali
 15915340,CanDeger
 262348793,evrimagaci
 1324516536,ozgurozturknet
