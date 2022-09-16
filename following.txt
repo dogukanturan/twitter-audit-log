@@ -6,6 +6,7 @@
 14691585,TEAkolik
 178544773,basaranertugrul
 2774598312,Siber_Bulten
+723515486852534274,delikanliklavye
 112105874,hlldz
 16299725,mindspoof
 918474910145576961,gorkemguler_
@@ -278,3 +279,4 @@
 19881296,oyilmaz
 118052762,fth_coskun
 1529089691349393411,unalmelisa2
+104306851,OguzhanUgur
