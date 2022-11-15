@@ -6,6 +6,7 @@
 14691585,TEAkolik
 178544773,basaranertugrul
 2774598312,Siber_Bulten
+723515486852534274,delikanliklavye
 112105874,hlldz
 16299725,mindspoof
 918474910145576961,gorkemguler_
@@ -26,7 +27,6 @@
 840616946,mertcangokgoz
 2159423352,kaganisildak
 709412306619387904,ziyaxanalbeniz
-2174736464,_denizparlak
 799628396,numanturle
 150957577,cnrkrglu
 14250331,webrazzi
@@ -131,7 +131,6 @@
 150517734,tonypujals
 9551792,solomonstre
 1381245365257527300,K8sArchitect
-2719130126,_nesliaydin
 37347677,simerazzi
 1334568477642854411,VideosNoContext
 1360313248252329990,developerguyba
