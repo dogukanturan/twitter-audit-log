@@ -27,6 +27,7 @@
 840616946,mertcangokgoz
 2159423352,kaganisildak
 709412306619387904,ziyaxanalbeniz
+2174736464,_denizparlak
 799628396,numanturle
 150957577,cnrkrglu
 14250331,webrazzi
@@ -73,7 +74,6 @@
 936687457336258561,DevSecOpsDays
 973656624769454081,nocontextyemek
 16056039,tunix
-253100472,cagataycali
 15915340,CanDeger
 262348793,evrimagaci
 1324516536,ozgurozturknet
@@ -223,7 +223,6 @@
 2758083826,Poffypot
 378036932,azmimengu
 1300117172237357057,DunderMifflinTR
-15452672,burakdonertas
 299903976,halitince
 966375899439431680,sufleio
 94564297,ZaferAyan
