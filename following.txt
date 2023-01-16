@@ -6,6 +6,7 @@
 14691585,TEAkolik
 178544773,basaranertugrul
 2774598312,Siber_Bulten
+723515486852534274,delikanliklavye
 112105874,hlldz
 16299725,mindspoof
 918474910145576961,gorkemguler_
@@ -296,3 +297,4 @@
 2916305152,Snowden
 713818257497559040,KubernetesDays
 14924965,defcon
+2885999919,BurakDaricili
